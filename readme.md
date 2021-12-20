@@ -15,7 +15,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<h2 align="center">Task 2</h2>
+<h2 align="center">Task 3</h2>
 
 ### Task - Payment Gateway Integration.
 
